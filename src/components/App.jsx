@@ -1,6 +1,7 @@
 // COMO SE ESCRIBE UN COMPONENTE
 //IMPORTAMOS EL HEADER QUE ACABAMOS DE HACER
 import Header from './Header'
+import Grid from './Grid'
 
 //VAS A A LLAMAR A LA FUNCION DE LA MISMA MANERA DE COMO LLAMASTE A TU ARCHIVO COMO BUENA PRACTICA
 function App() {
@@ -8,7 +9,9 @@ function App() {
     <>
       <Header />
       <main>
-        <h1>Mi primer componente</h1>
+        <h1>Courses of EDTEAM</h1>
+        <Grid></Grid>        
+        
       </main>
     </>
   )
