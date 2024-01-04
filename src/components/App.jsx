@@ -1,7 +1,7 @@
 // COMO SE ESCRIBE UN COMPONENTE
 //IMPORTAMOS EL HEADER QUE ACABAMOS DE HACER
-import Header from './Header'
-import Grid from './Grid'
+import Header from './header/Header'
+import Grid from './courses/Grid'
 
 //VAS A A LLAMAR A LA FUNCION DE LA MISMA MANERA DE COMO LLAMASTE A TU ARCHIVO COMO BUENA PRACTICA
 function App() {
